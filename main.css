@@ -1,0 +1,55 @@
+	/* main.css */
+	
+	body {
+		background: rgb(117,83,112);
+		font-family: 'Crimson Text', serif;
+	}
+
+	title {
+		letter-spacing: all;
+
+	}
+
+
+	h1 {
+		color: white
+	}
+
+	h3 {
+		color: white
+	}
+
+	ol {
+		color: white;
+
+	}
+
+	#nav {
+		border-style: solid; color: white;
+		border-radius: 10px;
+		}
+
+	#nav {
+		background: rgb(117,83,112);
+		text-align: center;
+	}
+
+	a {
+		color: white
+	}
+
+	p {
+		color: white
+	}
+
+	img {
+		border-style: solid; color: white;
+	}
+
+	#img {
+		text-align: center; border-style: solid;color: white
+	}
+
+
+
+

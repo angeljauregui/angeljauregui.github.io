@@ -1,0 +1,51 @@
+	/* styles/main.css */
+	
+	body {
+		background: rgb(117,83,112);
+	}
+
+
+	h1 {
+		color: white
+	}
+
+	h3 {
+		color: white
+	}
+
+	ol {
+		color: white;
+
+	}
+
+	#nav {
+		border-style: solid; color: white;
+		border-radius: 10px;
+		}
+
+	#nav {
+		background: rgb(117,83,112);
+		text-align: center;
+	}
+
+	a {
+		color: white
+	}
+
+	#img {
+		text-align: center;
+		
+	}
+
+	img {
+		border-style: solid;
+	}
+
+
+
+
+	p {
+		color: white
+	}
+
+	
